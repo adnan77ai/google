@@ -1,0 +1,67 @@
+.main{
+    margin-top: 200px;
+}
+
+.logo{
+    display: block;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search{
+    margin-top: 15px;
+    width: 600px;
+    line-height: 45px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #303134;
+    border-color: dodgerblue;
+    border-radius: 50px;
+}
+
+.all{
+    margin-top: 20px;
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hi{
+    background-color: white;
+    border: 1px solid dodgerblue;
+    border-radius: 4px;
+    color: black;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+    
+.he{
+    background-color: white;
+    border: 1px solid dodgerblue;
+    border-radius: 4px;
+    color: black;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+   
+    
+    
+    
+   
+
