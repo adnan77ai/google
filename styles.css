@@ -22,7 +22,7 @@
     border-radius: 50px;
 }
 
-.all{
+.buttons{
     margin-top: 20px;
     width: fit-content;
     display: block;
@@ -30,7 +30,7 @@
     margin-right: auto;
 }
 
-.hi{
+.button1{
     background-color: white;
     border: 1px solid dodgerblue;
     border-radius: 4px;
@@ -45,7 +45,7 @@
     user-select: none;
 }
     
-.he{
+.button2{
     background-color: white;
     border: 1px solid dodgerblue;
     border-radius: 4px;
